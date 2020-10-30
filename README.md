@@ -1,5 +1,5 @@
 1. Please update csv file location in appsettings (dataFile) in web.config
-2. This solution has several projects 
+2. This solution has several projects (Seperation of concerns)
 	1. api project
 	2. model
 	3. repository
